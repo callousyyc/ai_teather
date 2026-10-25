@@ -1,0 +1,4 @@
+# 教材扫描图和 OCR 全文：有版权，不能公开发布；可用 tools/ingest.py 在本地重新生成
+kb/
+__pycache__/
+*.pyc
