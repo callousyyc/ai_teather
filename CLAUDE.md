@@ -57,7 +57,7 @@
   2. 更新 `progress/learner.md`（当前位置、掌握程度：未学 / 初识 / 理解 / 熟练，以及薄弱点）。
   3. 往 `progress/review.md` 加 2–4 个复习问题，间隔按 1 → 3 → 7 → 21 天递增。
   4. 在 `progress/log.md` 追加一行记录。
-  5. **主动提交并推送到 GitHub**（学生已经长期授权，不需要再问）：`git add -A && git commit -m "课程: <小节> ..." && git push`。远程仓库是 https://github.com/callousyyc/ai_teather.git，分支 main。
+  5. **主动提交并推送到 GitHub**（学生已经长期授权，不需要再问）：`git add -A && git commit -m "课程: <小节> ..." && git push`。远程仓库 origin = git@github.com:callousyyc/ai_teather.git（用 SSH，HTTPS 会卡在凭据弹窗），分支 main。
      - 仓库是**公开**的。`kb/`（教材扫描图和 OCR 全文，有版权）已被 `.gitignore` 排除，**绝不能提交**；也不要把教材的大段原文抄进 notes。
 
 ## 不要做
